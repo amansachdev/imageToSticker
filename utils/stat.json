@@ -1,8 +1,10 @@
 {
 	"sent": {
-
+		"sticker": 5
 	},
 	"receive": {
-
+		"sticker": 3,
+		"chat": 4,
+		"image": 1
 	}
 }
